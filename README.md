@@ -17,6 +17,6 @@ Plagiarsim checker using cosine algorithm
     <td>Plagiarsim Checker</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/noorkhokhar99/Plagiarsim-Checker/blob/main/Modern%20Minimalist%20Simple%20Technology%20Facebook%20Cover.png"></td>
+    <td><img src="https://drive.google.com/drive/folders/18nsJxzYGxeaC9TlcaOyNONjikX_qZ7_M?usp=drive_link"></td>
   </tr>
  </table>
